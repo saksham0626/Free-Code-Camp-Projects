@@ -25,5 +25,3 @@ Dataset: data/epa-sea-level.csv
 Result: 
 ![Screenshot](Plots/p5_linearreg.png)
 
-Upon completion, you are eligible to get the certificate as below:  
-[My certifications](Plots/da_python.png)
