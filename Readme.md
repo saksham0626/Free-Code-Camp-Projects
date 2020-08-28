@@ -5,15 +5,7 @@ This repository contains the solutions to the [Data Analysis with Python](https:
 The certification consists of 300 hours video lectures on Jupyter Notebooks, Numpy, Pandas, Data visualizations using Matplotlib, Seaborn and 5 Data Analysis projects.
 
 ### Projects:
-1. Mean-Variance-Standard Deviation Calculator : (mvs_calculator.py)  
-This project involves usage of Numpy functions (mean, variance, and standard deviation) row-wise, column-wise and on the hole 3 x 3 matrix.  
-  
-2. Demographic Data Analyzer : (demographic_data_analyzer.py)  
-This project involves analyzing demographic data using Pandas. (row/column selections, conditional selections, slicing, groupby - aggregations)   
-Dataset: data/adult.data  
-Result:  
-![Screenshot](Plots/p2_results.png)
-  
+
 3. Medical Data Visualizer : (medical_data_visualizer.py)  
 This project involves data cleaning and visualizing medical examination data using matplotlib, seaborn, and pandas. (categorizing and cleaning data, categorical plots and heatmaps)  
 Dataset: data/medical_examination.csv  
